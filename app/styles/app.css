@@ -1,3 +1,39 @@
 html, body {
   margin: 20px;
 }
+
+.container {
+  margin-top: 70px;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.col-md-1 {
+  width: 106.25px;
+  height: 106.25px;
+  line-height: 106.25px;
+  text-align: center;
+  border-style: solid;
+  border-color: #c3c3c3;
+  font-size: 36px;
+  font-weight: bold;
+}
+.col-md-4 {
+  width: 425px;
+  height: 106.25px;
+  border-style: solid;
+  border-color: #c3c3c3;
+  font-size: 36px;
+  font-weight: bold;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#my-display {
+  height: 106.25px;
+  width: 419px;
+  outline: 0px;
+  border-width: 0px;
+  text-align: right;
+}
