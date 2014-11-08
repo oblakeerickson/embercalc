@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'embercalc',
     environment: environment,
-    baseURL: '/',
+    baseURL: '/embercalc',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
